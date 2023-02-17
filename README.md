@@ -1,6 +1,6 @@
 ## watch_next
 -----------------------------------------------------------------------------------------------------------------------------------------
-#### __About the program:_
+#### _About the program:_
 -----------------------
 This Python program uses the Spacy module to load a language model for English text, reads in a list of movie descriptions from a text file, and defines a function called most_similar_movie that finds the movie with the most similar description to a given input description. 
 
